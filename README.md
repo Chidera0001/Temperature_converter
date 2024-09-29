@@ -2,6 +2,8 @@
 
 A simple Flutter app that converts temperature from Fahrenheit to Celsius and vice versa.
 
+![App Screenshot](assets/images/Preview.png.png)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -72,4 +74,4 @@ To run this app, you'll need to have Flutter installed. Follow the instructions 
 
 Make sure to follow Flutter coding standards when contributing.
 
-<!-- ![App Screenshot](assets/images/screenshot.png) -->
+
